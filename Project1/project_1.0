@@ -29,15 +29,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "def "
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": 3,
    "metadata": {},
    "outputs": [],
@@ -111,7 +102,7 @@
     }
    ],
    "source": [
-    "return_cum_strat_last_el(df, 2, 5)\n"
+    "return_cum_strat_last_el(df, 2, 5)"
    ]
   },
   {
