@@ -1,2 +1,2 @@
 # Project Pascal
-A repository to host the Jupyter notebooks relating to this project
+A repository that hosts the Jupyter notebooks related to this project
